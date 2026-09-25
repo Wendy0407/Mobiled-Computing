@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.MorningRefresh" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#F6C945</item>
+        <item name="android:navigationBarColor">#091221</item>
+        <item name="android:statusBarColor">#0B1B31</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
